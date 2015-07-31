@@ -1,0 +1,1 @@
+Automatic attendance whenever you enter a classroom. Also, your mobile goes into the chosen sound profile.
